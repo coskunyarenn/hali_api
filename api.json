@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Berjer",
+    "category": "Seating",
+    "description": "A comfortable and stylish armchair for your living room.",
+    "price": 299.99,
+    "image": "/assets/categories/berjer.webp"
+  },
+  {
+    "id": 2,
+    "name": "Kanepe / Koltuk",
+    "category": "Seating",
+    "description": "A versatile sofa for relaxing or entertaining guests.",
+    "price": 799.99,
+    "image": "/assets/categories/kanepe-koltuk.webp"
+  },
+  {
+    "id": 3,
+    "name": "Köşe Koltuk",
+    "category": "Seating",
+    "description": "A corner sofa perfect for large spaces.",
+    "price": 999.99,
+    "image": "/assets/categories/kose-koltuk.webp"
+  },
+  {
+    "id": 4,
+    "name": "Tv Ünitesi",
+    "category": "Storage",
+    "description": "A modern TV unit with ample storage space.",
+    "price": 449.99,
+    "image": "/assets/categories/tv-unit.webp"
+  },
+  {
+    "id": 5,
+    "name": "Yemek Masası",
+    "category": "Dining",
+    "description": "A stylish dining table for family meals.",
+    "price": 549.99,
+    "image": "/assets/categories/yemek-masasi.webp"
+  },
+  {
+    "id": 6,
+    "name": "Sandalye",
+    "category": "Seating",
+    "description": "A comfortable dining chair with a modern design.",
+    "price": 129.99,
+    "image": "/assets/categories/sandalye.webp"
+  },
+  {
+    "id": 7,
+    "name": "Sehpa",
+    "category": "Tables",
+    "description": "A versatile coffee table for any living room.",
+    "price": 199.99,
+    "image": "/assets/categories/sehpa.webp"
+  },
+  {
+    "id": 8,
+    "name": "Yatak",
+    "category": "Bedroom",
+    "description": "A cozy and durable bed for a restful sleep.",
+    "price": 599.99,
+    "image": "/assets/categories/yatak.webp"
+  }
+]
