@@ -7,7 +7,9 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "images": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde.jpg"
+      "images": [
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde.jpg"
+      ]
     },
     {
       "id": 2,
@@ -569,7 +571,7 @@
     {
       "id": "perde",
       "name": "Perde",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/perde.jpg"
+      "images": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/perde.jpg"
     },
     {
       "id": "koltuk",
