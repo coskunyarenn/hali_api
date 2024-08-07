@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
-    "categories": ["berjer", "Seating"],
+    "categories": ["berjer"],
     "description": "A comfortable and stylish armchair for your living room.",
     "price": 299.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp"
