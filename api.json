@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
-      "categories": ["berjer"],
+      "categories": ["perde"],
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
@@ -11,8 +11,8 @@
     },
     {
       "id": 2,
-      "name": "Kanepe / Koltuk",
-      "categories": ["kanepe-koltuk"],
+      "name": "Koltuk",
+      "categories": ["koltuk"],
       "tags": [""],
       "description": "A versatile sofa for relaxing or entertaining guests.",
       "price": 799.99,
@@ -20,8 +20,8 @@
     },
     {
       "id": 3,
-      "name": "Köşe Koltuk",
-      "categories": ["kose-koltuk"],
+      "name": "Dolap",
+      "categories": ["dolap"],
       "tags": [""],
       "description": "A corner sofa perfect for large spaces.",
       "price": 999.99,
@@ -36,26 +36,18 @@
       "price": 449.99,
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg"
     },
+
     {
       "id": 5,
-      "name": "Yemek Masası",
-      "categories": ["yemek-masasi"],
-      "tags": [""],
-      "description": "A stylish dining table for family meals.",
-      "price": 549.99,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/MiniaKibris/1.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Sandalye",
-      "categories": ["sandalye"],
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
       "tags": [""],
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/StHilarionKalesi/1.jpg"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Sehpa",
       "categories": ["sehpa"],
       "tags": [""],
@@ -64,47 +56,29 @@
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/ChineseHouse/1.jpg"
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Yatak",
       "categories": ["yatak"],
       "tags": [""],
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Yatak",
-      "categories": ["yatak"],
-      "tags": [""],
-      "description": "A cozy and durable bed for a restful sleep.",
-      "price": 599.99,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Köşe Koltuk",
-      "categories": ["kose-koltuk"],
-      "tags": [""],
-      "description": "A corner sofa perfect for large spaces.",
-      "price": 999.99,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/1.png"
     }
   ],
   "categories": [
     {
-      "id": "berjer",
-      "name": "Berjer",
+      "id": "perde",
+      "name": "Perde",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/berjer.webp"
     },
     {
-      "id": "kanepe-koltuk",
-      "name": "Kanepe / Koltuk",
+      "id": "koltuk",
+      "name": "Koltuk",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/kanepe-koltuk.webp"
     },
     {
-      "id": "kose-koltuk",
-      "name": "Köşe Koltuk",
+      "id": "dolap",
+      "name": "Dolap",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/kose-koltuk.webp"
     },
     {
@@ -113,13 +87,8 @@
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/tv-unit.webp"
     },
     {
-      "id": "yemek-masasi",
-      "name": "Yemek Masası",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/yemek-masasi.webp"
-    },
-    {
-      "id": "sandalye",
-      "name": "Sandalye",
+      "id": "masa-sandalye",
+      "name": "Masa / Sandalye",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/sandalye.webp"
     },
     {
