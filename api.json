@@ -16,6 +16,7 @@
       "tags": [""],
       "description": "A versatile sofa for relaxing or entertaining guests.",
       "price": 799.99,
+      "salePrice": 200.0,
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Bellapais/1.jpg"
     },
     {
@@ -24,7 +25,7 @@
       "categories": ["dolap"],
       "tags": [""],
       "description": "A corner sofa perfect for large spaces.",
-      "price": 999.99,
+      "salePrice": 200.0,
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/1.png"
     },
     {
@@ -34,6 +35,7 @@
       "tags": [""],
       "description": "A modern TV unit with ample storage space.",
       "price": 449.99,
+      "salePrice": 200.0,
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg"
     },
 
@@ -44,6 +46,7 @@
       "tags": [""],
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
+      "salePrice": 100.0,
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/StHilarionKalesi/1.jpg"
     },
     {
@@ -62,6 +65,7 @@
       "tags": [""],
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
+      "salePrice": 200.0,
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg"
     }
   ],
