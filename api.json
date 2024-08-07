@@ -356,8 +356,9 @@
       "name": "Sehpa",
       "categories": ["sehpa"],
       "tags": [""],
-      "description": "A versatile coffee table for any living room.",
+      "description": "1A versatile coffee table for any living room.",
       "price": 199.99,
+      "salePrice": 100.0,
       "image": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa1.webp",
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa11.webp"
@@ -368,7 +369,7 @@
       "name": "Sehpa",
       "categories": ["sehpa"],
       "tags": [""],
-      "description": "A versatile coffee table for any living room.",
+      "description": "2A versatile coffee table for any living room.",
       "price": 199.99,
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa11.webp"
     },
@@ -377,7 +378,7 @@
       "name": "Sehpa",
       "categories": ["sehpa"],
       "tags": [""],
-      "description": "A versatile coffee table for any living room.",
+      "description": "3A versatile coffee table for any living room.",
       "price": 199.99,
       "image": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa2.webp",
@@ -393,7 +394,7 @@
       "name": "Sehpa",
       "categories": ["sehpa"],
       "tags": [""],
-      "description": "A versatile coffee table for any living room.",
+      "description": "4A versatile coffee table for any living room.",
       "price": 199.99,
       "image": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa22.webp"
@@ -404,7 +405,7 @@
       "name": "Sehpa",
       "categories": ["sehpa"],
       "tags": [""],
-      "description": "A versatile coffee table for any living room.",
+      "description": "5A versatile coffee table for any living room.",
       "price": 199.99,
       "image": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa23.jpg"
@@ -415,7 +416,7 @@
       "name": "Sehpa",
       "categories": ["sehpa"],
       "tags": [""],
-      "description": "A versatile coffee table for any living room.",
+      "description": "6A versatile coffee table for any living room.",
       "price": 199.99,
       "image": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa24.webp"
@@ -426,7 +427,7 @@
       "name": "Sehpa",
       "categories": ["sehpa"],
       "tags": [""],
-      "description": "A versatile coffee table for any living room.",
+      "description": "7A versatile coffee table for any living room.",
       "price": 199.99,
       "image": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa25.webp"
@@ -437,7 +438,7 @@
       "name": "Sehpa",
       "categories": ["sehpa"],
       "tags": [""],
-      "description": "A versatile coffee table for any living room.",
+      "description": "8A versatile coffee table for any living room.",
       "price": 199.99,
       "image": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa26.webp"
