@@ -7,27 +7,451 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde.jpg"
     },
     {
       "id": 2,
+      "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
+      "categories": ["perde"],
+      "tags": [""],
+      "description": "A comfortable and stylish armchair for your living room.",
+      "price": 299.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
+      "categories": ["perde"],
+      "tags": [""],
+      "description": "A comfortable and stylish armchair for your living room.",
+      "price": 299.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
+      "categories": ["perde"],
+      "tags": [""],
+      "description": "A comfortable and stylish armchair for your living room.",
+      "price": 299.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
+      "categories": ["perde"],
+      "tags": [""],
+      "description": "A comfortable and stylish armchair for your living room.",
+      "price": 299.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
+      "categories": ["perde"],
+      "tags": [""],
+      "description": "A comfortable and stylish armchair for your living room.",
+      "price": 299.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
+      "categories": ["perde"],
+      "tags": [""],
+      "description": "A comfortable and stylish armchair for your living room.",
+      "price": 299.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
+      "categories": ["perde"],
+      "tags": [""],
+      "description": "A comfortable and stylish armchair for your living room.",
+      "price": 299.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
+      "categories": ["perde"],
+      "tags": [""],
+      "description": "A comfortable and stylish armchair for your living room.",
+      "price": 299.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
+      "categories": ["perde"],
+      "tags": [""],
+      "description": "A comfortable and stylish armchair for your living room.",
+      "price": 299.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde10.jpg"
+    },
+    {
+      "id": 11,
       "name": "Koltuk",
       "categories": ["koltuk"],
       "tags": [""],
       "description": "A versatile sofa for relaxing or entertaining guests.",
       "price": 799.99,
       "salePrice": 200.0,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Bellapais/1.jpg"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk1.jpg"
     },
     {
-      "id": 3,
+      "id": 12,
+      "name": "Koltuk",
+      "categories": ["koltuk"],
+      "tags": [""],
+      "description": "A versatile sofa for relaxing or entertaining guests.",
+      "price": 799.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk2.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Koltuk",
+      "categories": ["koltuk"],
+      "tags": [""],
+      "description": "A versatile sofa for relaxing or entertaining guests.",
+      "price": 799.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk3.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Koltuk",
+      "categories": ["koltuk"],
+      "tags": [""],
+      "description": "A versatile sofa for relaxing or entertaining guests.",
+      "price": 799.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk4.jpg"
+    },
+    {
+      "id": 15,
       "name": "Dolap",
       "categories": ["dolap"],
       "tags": [""],
       "description": "A corner sofa perfect for large spaces.",
       "price": 449.99,
       "salePrice": 200.0,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/1.png"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap1.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Dolap",
+      "categories": ["dolap"],
+      "tags": [""],
+      "description": "A corner sofa perfect for large spaces.",
+      "price": 449.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap2.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Dolap",
+      "categories": ["dolap"],
+      "tags": [""],
+      "description": "A corner sofa perfect for large spaces.",
+      "price": 449.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap3.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Dolap",
+      "categories": ["dolap"],
+      "tags": [""],
+      "description": "A corner sofa perfect for large spaces.",
+      "price": 449.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap4.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Dolap",
+      "categories": ["dolap"],
+      "tags": [""],
+      "description": "A corner sofa perfect for large spaces.",
+      "price": 449.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap5.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Dolap",
+      "categories": ["dolap"],
+      "tags": [""],
+      "description": "A corner sofa perfect for large spaces.",
+      "price": 449.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap6.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Dolap",
+      "categories": ["dolap"],
+      "tags": [""],
+      "description": "A corner sofa perfect for large spaces.",
+      "price": 449.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap7.jpg"
+    },
+
+    {
+      "id": 22,
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
+      "tags": [""],
+      "description": "A comfortable dining chair with a modern design.",
+      "price": 129.99,
+      "salePrice": 100.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
+      "tags": [""],
+      "description": "A comfortable dining chair with a modern design.",
+      "price": 129.99,
+      "salePrice": 100.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye1.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
+      "tags": [""],
+      "description": "A comfortable dining chair with a modern design.",
+      "price": 129.99,
+      "salePrice": 100.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye2.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
+      "tags": [""],
+      "description": "A comfortable dining chair with a modern design.",
+      "price": 129.99,
+      "salePrice": 100.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye3.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
+      "tags": [""],
+      "description": "A comfortable dining chair with a modern design.",
+      "price": 129.99,
+      "salePrice": 100.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye4.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
+      "tags": [""],
+      "description": "A comfortable dining chair with a modern design.",
+      "price": 129.99,
+      "salePrice": 100.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye5.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
+      "tags": [""],
+      "description": "A comfortable dining chair with a modern design.",
+      "price": 129.99,
+      "salePrice": 100.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye6.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
+      "tags": [""],
+      "description": "A comfortable dining chair with a modern design.",
+      "price": 129.99,
+      "salePrice": 100.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye7.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Masa / Sandalye",
+      "categories": ["masa-sandalye"],
+      "tags": [""],
+      "description": "A comfortable dining chair with a modern design.",
+      "price": 129.99,
+      "salePrice": 100.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye8.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Sehpa",
+      "categories": ["sehpa"],
+      "tags": [""],
+      "description": "A versatile coffee table for any living room.",
+      "price": 199.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa1.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Sehpa",
+      "categories": ["sehpa"],
+      "tags": [""],
+      "description": "A versatile coffee table for any living room.",
+      "price": 199.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa11.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Sehpa",
+      "categories": ["sehpa"],
+      "tags": [""],
+      "description": "A versatile coffee table for any living room.",
+      "price": 199.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa2.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Sehpa",
+      "categories": ["sehpa"],
+      "tags": [""],
+      "description": "A versatile coffee table for any living room.",
+      "price": 199.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa22.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Sehpa",
+      "categories": ["sehpa"],
+      "tags": [""],
+      "description": "A versatile coffee table for any living room.",
+      "price": 199.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa23.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Sehpa",
+      "categories": ["sehpa"],
+      "tags": [""],
+      "description": "A versatile coffee table for any living room.",
+      "price": 199.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa24.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Sehpa",
+      "categories": ["sehpa"],
+      "tags": [""],
+      "description": "A versatile coffee table for any living room.",
+      "price": 199.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa25.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Sehpa",
+      "categories": ["sehpa"],
+      "tags": [""],
+      "description": "A versatile coffee table for any living room.",
+      "price": 199.99,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa26.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Yatak",
+      "categories": ["yatak"],
+      "tags": [""],
+      "description": "A cozy and durable bed for a restful sleep.",
+      "price": 599.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Yatak",
+      "categories": ["yatak"],
+      "tags": [""],
+      "description": "A cozy and durable bed for a restful sleep.",
+      "price": 599.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak1.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Yatak",
+      "categories": ["yatak"],
+      "tags": [""],
+      "description": "A cozy and durable bed for a restful sleep.",
+      "price": 599.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak2.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Yatak",
+      "categories": ["yatak"],
+      "tags": [""],
+      "description": "A cozy and durable bed for a restful sleep.",
+      "price": 599.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak3.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Yatak",
+      "categories": ["yatak"],
+      "tags": [""],
+      "description": "A cozy and durable bed for a restful sleep.",
+      "price": 599.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak4.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Yatak",
+      "categories": ["yatak"],
+      "tags": [""],
+      "description": "A cozy and durable bed for a restful sleep.",
+      "price": 599.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak41.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Yatak",
+      "categories": ["yatak"],
+      "tags": [""],
+      "description": "A cozy and durable bed for a restful sleep.",
+      "price": 599.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak42.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Yatak",
+      "categories": ["yatak"],
+      "tags": [""],
+      "description": "A cozy and durable bed for a restful sleep.",
+      "price": 599.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak5.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Yatak",
+      "categories": ["yatak"],
+      "tags": [""],
+      "description": "A cozy and durable bed for a restful sleep.",
+      "price": 599.99,
+      "salePrice": 200.0,
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak6.jpg"
     },
     {
       "id": 4,
@@ -38,36 +462,6 @@
       "price": 449.99,
       "salePrice": 200.0,
       "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg"
-    },
-
-    {
-      "id": 5,
-      "name": "Masa / Sandalye",
-      "categories": ["masa-sandalye"],
-      "tags": [""],
-      "description": "A comfortable dining chair with a modern design.",
-      "price": 129.99,
-      "salePrice": 100.0,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/StHilarionKalesi/1.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Sehpa",
-      "categories": ["sehpa"],
-      "tags": [""],
-      "description": "A versatile coffee table for any living room.",
-      "price": 199.99,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/ChineseHouse/1.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Yatak",
-      "categories": ["yatak"],
-      "tags": [""],
-      "description": "A cozy and durable bed for a restful sleep.",
-      "price": 599.99,
-      "salePrice": 200.0,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg"
     }
   ],
   "categories": [
