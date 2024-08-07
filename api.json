@@ -69,7 +69,7 @@
     {
       "id": "perde",
       "name": "Perde",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/berjer.webp"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/perde.jpg"
     },
     {
       "id": "koltuk",
@@ -79,7 +79,7 @@
     {
       "id": "dolap",
       "name": "Dolap",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/kose-koltuk.webp"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/dolap.jpg"
     },
     {
       "id": "tv-unit",
@@ -99,7 +99,7 @@
     {
       "id": "yatak",
       "name": "Yatak",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/berjer.webp"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/yatak.webp"
     }
   ]
 }
