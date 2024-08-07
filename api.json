@@ -79,5 +79,14 @@
     "description": "A cozy and durable bed for a restful sleep.",
     "price": 599.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Köşe Koltuk",
+    "categories": ["kose-koltuk"],
+    "tags": [""],
+    "description": "A corner sofa perfect for large spaces.",
+    "price": 999.99,
+    "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/1.png"
   }
 ]
