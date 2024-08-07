@@ -359,7 +359,8 @@
       "description": "A versatile coffee table for any living room.",
       "price": 199.99,
       "image": [
-        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa1.webp"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa1.webp",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa11.webp"
       ]
     },
     {
@@ -379,7 +380,12 @@
       "description": "A versatile coffee table for any living room.",
       "price": 199.99,
       "image": [
-        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa2.webp"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa2.webp",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa22.webp",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa23.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa24.webp",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa25.webp",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa26.webp"
       ]
     },
     {
@@ -494,7 +500,9 @@
       "price": 599.99,
       "salePrice": 200.0,
       "image": [
-        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak4.jpeg"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak41.jpeg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak4.jpeg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak42.jpeg"
       ]
     },
     {
