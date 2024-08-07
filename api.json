@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Kanepe / Koltuk",
-    "categories": ["Seating"],
+    "categories": ["kanepe-koltuk"],
     "description": "A versatile sofa for relaxing or entertaining guests.",
     "price": 799.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Bellapais/1.jpg"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Köşe Koltuk",
-    "categories": ["Seating"],
+    "categories": ["kose-koltuk"],
     "description": "A corner sofa perfect for large spaces.",
     "price": 999.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/1.png"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Tv Ünitesi",
-    "categories": ["Storage"],
+    "categories": ["tv-unit"],
     "description": "A modern TV unit with ample storage space.",
     "price": 449.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Yemek Masası",
-    "categories": ["Dining"],
+    "categories": ["yemek-masasi"],
     "description": "A stylish dining table for family meals.",
     "price": 549.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/MiniaKibris/1.jpg"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Sandalye",
-    "categories": ["Seating"],
+    "categories": ["sandalye"],
     "description": "A comfortable dining chair with a modern design.",
     "price": 129.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/StHilarionKalesi/1.jpg"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "Sehpa",
-    "categories": ["Tables"],
+    "categories": ["sehpa"],
     "description": "A versatile coffee table for any living room.",
     "price": 199.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/ChineseHouse/1.jpg"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "name": "Yatak",
-    "categories": ["Bedroom"],
+    "categories": ["yatak"],
     "description": "A cozy and durable bed for a restful sleep.",
     "price": 599.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg"
