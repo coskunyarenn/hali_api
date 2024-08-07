@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
     "categories": ["berjer"],
+    "tags": [""],
     "description": "A comfortable and stylish armchair for your living room.",
     "price": 299.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/TheHouse/1.webp"
@@ -11,6 +12,7 @@
     "id": 2,
     "name": "Kanepe / Koltuk",
     "categories": ["kanepe-koltuk"],
+    "tags": [""],
     "description": "A versatile sofa for relaxing or entertaining guests.",
     "price": 799.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Bellapais/1.jpg"
@@ -19,6 +21,7 @@
     "id": 3,
     "name": "Köşe Koltuk",
     "categories": ["kose-koltuk"],
+    "tags": [""],
     "description": "A corner sofa perfect for large spaces.",
     "price": 999.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Raica/1.png"
@@ -27,6 +30,7 @@
     "id": 4,
     "name": "Tv Ünitesi",
     "categories": ["tv-unit"],
+    "tags": [""],
     "description": "A modern TV unit with ample storage space.",
     "price": 449.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg"
@@ -35,6 +39,7 @@
     "id": 5,
     "name": "Yemek Masası",
     "categories": ["yemek-masasi"],
+    "tags": [""],
     "description": "A stylish dining table for family meals.",
     "price": 549.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/MiniaKibris/1.jpg"
@@ -43,6 +48,7 @@
     "id": 6,
     "name": "Sandalye",
     "categories": ["sandalye"],
+    "tags": [""],
     "description": "A comfortable dining chair with a modern design.",
     "price": 129.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/StHilarionKalesi/1.jpg"
@@ -51,6 +57,7 @@
     "id": 7,
     "name": "Sehpa",
     "categories": ["sehpa"],
+    "tags": [""],
     "description": "A versatile coffee table for any living room.",
     "price": 199.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/ChineseHouse/1.jpg"
@@ -59,6 +66,16 @@
     "id": 8,
     "name": "Yatak",
     "categories": ["yatak"],
+    "tags": [""],
+    "description": "A cozy and durable bed for a restful sleep.",
+    "price": 599.99,
+    "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Yatak",
+    "categories": ["yatak"],
+    "tags": [""],
     "description": "A cozy and durable bed for a restful sleep.",
     "price": 599.99,
     "image": "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/Treasure/1.jpg"
