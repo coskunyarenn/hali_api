@@ -7,7 +7,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde.jpg"
       ]
     },
@@ -18,7 +18,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde2.jpg"
       ]
     },
@@ -29,7 +29,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde3.jpg"
       ]
     },
@@ -40,7 +40,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde4.jpg"
       ]
     },
@@ -51,7 +51,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde5.jpg"
       ]
     },
@@ -62,7 +62,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde6.jpg"
       ]
     },
@@ -73,7 +73,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde7.jpg"
       ]
     },
@@ -84,7 +84,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde8.jpg"
       ]
     },
@@ -95,7 +95,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde9.jpg"
       ]
     },
@@ -106,7 +106,7 @@
       "tags": [""],
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde10.jpg"
       ]
     },
@@ -118,7 +118,7 @@
       "description": "A versatile sofa for relaxing or entertaining guests.",
       "price": 799.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk1.jpg"
       ]
     },
@@ -130,7 +130,7 @@
       "description": "A versatile sofa for relaxing or entertaining guests.",
       "price": 799.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk2.jpg"
       ]
     },
@@ -142,7 +142,7 @@
       "description": "A versatile sofa for relaxing or entertaining guests.",
       "price": 799.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk3.jpg"
       ]
     },
@@ -154,7 +154,7 @@
       "description": "A versatile sofa for relaxing or entertaining guests.",
       "price": 799.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk4.jpg"
       ]
     },
@@ -166,7 +166,7 @@
       "description": "A corner sofa perfect for large spaces.",
       "price": 449.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap1.jpg"
       ]
     },
@@ -178,7 +178,7 @@
       "description": "A corner sofa perfect for large spaces.",
       "price": 449.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap2.jpg"
       ]
     },
@@ -190,7 +190,7 @@
       "description": "A corner sofa perfect for large spaces.",
       "price": 449.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap3.jpg"
       ]
     },
@@ -202,7 +202,7 @@
       "description": "A corner sofa perfect for large spaces.",
       "price": 449.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap4.jpg"
       ]
     },
@@ -214,7 +214,7 @@
       "description": "A corner sofa perfect for large spaces.",
       "price": 449.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap5.jpg"
       ]
     },
@@ -226,7 +226,7 @@
       "description": "A corner sofa perfect for large spaces.",
       "price": 449.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap6.jpg"
       ]
     },
@@ -238,7 +238,7 @@
       "description": "A corner sofa perfect for large spaces.",
       "price": 449.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap7.jpg"
       ]
     },
@@ -251,7 +251,7 @@
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye.jpg"
       ]
     },
@@ -263,7 +263,7 @@
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye1.jpg"
       ]
     },
@@ -275,7 +275,7 @@
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye2.jpg"
       ]
     },
@@ -287,7 +287,7 @@
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye3.jpg"
       ]
     },
@@ -299,7 +299,7 @@
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye4.jpg"
       ]
     },
@@ -311,7 +311,7 @@
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye5.jpg"
       ]
     },
@@ -323,7 +323,7 @@
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye6.jpg"
       ]
     },
@@ -335,7 +335,7 @@
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye7.jpg"
       ]
     },
@@ -347,7 +347,7 @@
       "description": "A comfortable dining chair with a modern design.",
       "price": 129.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye8.jpg"
       ]
     },
@@ -359,7 +359,7 @@
       "description": "1A versatile coffee table for any living room.",
       "price": 199.99,
       "salePrice": 100.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa1.webp",
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa11.webp"
       ]
@@ -371,7 +371,7 @@
       "tags": [""],
       "description": "2A versatile coffee table for any living room.",
       "price": 199.99,
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa11.webp"
+      "images": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa11.webp"
     },
     {
       "id": 33,
@@ -380,7 +380,7 @@
       "tags": [""],
       "description": "3A versatile coffee table for any living room.",
       "price": 199.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa2.webp",
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa22.webp",
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa23.jpg",
@@ -396,7 +396,7 @@
       "tags": [""],
       "description": "4A versatile coffee table for any living room.",
       "price": 199.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa22.webp"
       ]
     },
@@ -407,7 +407,7 @@
       "tags": [""],
       "description": "5A versatile coffee table for any living room.",
       "price": 199.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa23.jpg"
       ]
     },
@@ -418,7 +418,7 @@
       "tags": [""],
       "description": "6A versatile coffee table for any living room.",
       "price": 199.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa24.webp"
       ]
     },
@@ -429,7 +429,7 @@
       "tags": [""],
       "description": "7A versatile coffee table for any living room.",
       "price": 199.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa25.webp"
       ]
     },
@@ -440,7 +440,7 @@
       "tags": [""],
       "description": "8A versatile coffee table for any living room.",
       "price": 199.99,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa26.webp"
       ]
     },
@@ -452,7 +452,7 @@
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak.jpeg"
       ]
     },
@@ -464,7 +464,7 @@
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak1.jpeg"
       ]
     },
@@ -476,7 +476,7 @@
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak2.jpeg"
       ]
     },
@@ -488,7 +488,7 @@
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak3.jpeg"
       ]
     },
@@ -500,7 +500,7 @@
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak41.jpeg",
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak4.jpeg",
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak42.jpeg"
@@ -514,7 +514,7 @@
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak41.jpeg"
       ]
     },
@@ -526,7 +526,7 @@
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak42.jpeg"
       ]
     },
@@ -538,7 +538,7 @@
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak5.jpeg"
       ]
     },
@@ -550,7 +550,7 @@
       "description": "A cozy and durable bed for a restful sleep.",
       "price": 599.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak6.jpeg"
       ]
     },
@@ -562,7 +562,7 @@
       "description": "A modern TV unit with ample storage space.",
       "price": 449.99,
       "salePrice": 200.0,
-      "image": [
+      "images": [
         "https://raw.githubusercontent.com/coskunyarenn/app/main/assets/img/api/EsentepeCaliforian/1.jpg"
       ]
     }
