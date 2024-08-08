@@ -13,7 +13,9 @@
       "freeInstallation": true,
       "setContents": "Sofa, 2 decorative pillows",
       "images": [
-        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde2.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde3.jpg"
       ],
       "productReviews": [
         {
