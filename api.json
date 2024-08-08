@@ -4,11 +4,62 @@
       "id": 1,
       "name": "Atlanta Tekli Dönerli Koltuk - Antrasit",
       "categories": ["perde"],
-      "tags": [""],
+      "shortDesc": "A stylish and comfortable modern sofa.",
       "description": "A comfortable and stylish armchair for your living room.",
       "price": 299.99,
+      "stockCode": "MS-2024",
+      "tags": ["modern", "sofa", "living room"],
+      "warrantyPeriod": "2 years",
+      "freeInstallation": true,
+      "setContents": "Sofa, 2 decorative pillows",
       "images": [
         "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde.jpg"
+      ],
+      "productReviews": [
+        {
+          "reviewer": "Jane Doe",
+          "rating": 5,
+          "comment": "Absolutely love this sofa! It's very comfortable and looks great in my living room."
+        },
+        {
+          "reviewer": "John Smith",
+          "rating": 4,
+          "comment": "The sofa is nice, but it took longer to arrive than expected."
+        }
+      ],
+      "colorOptions": [
+        {
+          "color": "Gray",
+          "priceAdjustment": 0
+        },
+        {
+          "color": "Blue",
+          "priceAdjustment": 50
+        }
+      ],
+      "dimensions": [
+        {
+          "width": 85,
+          "depth": 35,
+          "height": 30,
+          "priceAdjustment": 0
+        },
+        {
+          "width": 95,
+          "depth": 35,
+          "height": 30,
+          "priceAdjustment": 100
+        }
+      ],
+      "installmentOptions": [
+        {
+          "installmentPeriod": "12 months",
+          "monthlyPayment": 75.0
+        },
+        {
+          "installmentPeriod": "24 months",
+          "monthlyPayment": 40.0
+        }
       ]
     },
     {
