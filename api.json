@@ -571,7 +571,7 @@
     {
       "id": "perde",
       "name": "Perde",
-      "images": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/perde.jpg"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/perde.jpg"
     },
     {
       "id": "koltuk",
