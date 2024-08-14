@@ -11,7 +11,7 @@
       "basePrice": "199.99",
       "salePrice": "149.99",
       "stockCode": "SP12345",
-      "categories": ["Mobilya", "koltuk"],
+      "categories": ["koltuk"],
       "subCategories": [],
       "tags": ["New", "Sale", "Featured"],
       "colors": [
