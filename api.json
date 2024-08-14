@@ -130,7 +130,7 @@
         "https://via.placeholder.com/100x100?text=Sandalye+Koleksiyonu+3"
       ],
       "basePrice": "129.99",
-      "salePrice": "",
+      "salePrice": null,
       "stockCode": "SK12345",
       "categories": ["masa-sandalye"],
       "subCategories": ["dining chairs"],
