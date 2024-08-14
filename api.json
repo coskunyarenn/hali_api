@@ -197,8 +197,8 @@
       "id": 6,
       "name": "Ergonomik Ofis Sandalyesi",
       "images": [
-        "https://via.placeholder.com/600x400?text=Ergonomik+Ofis+Sandalyesi",
-        "https://via.placeholder.com/500x400?text=Ergonomik+Ofis+Sandalyesi+2"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye6.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye7.jpg"
       ],
       "basePrice": "149.99",
       "salePrice": "119.99",
@@ -231,8 +231,7 @@
       "id": 7,
       "name": "Modern TV Ünitesi",
       "images": [
-        "https://via.placeholder.com/600x400?text=Modern+TV+Ünitesi",
-        "https://via.placeholder.com/500x400?text=Modern+TV+Ünitesi+2"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/tv-unit.webp"
       ],
       "basePrice": "299.99",
       "salePrice": "249.99",
@@ -265,8 +264,8 @@
       "id": 8,
       "name": "Şık Sehpa",
       "images": [
-        "https://via.placeholder.com/600x400?text=Şık+Sehpa",
-        "https://via.placeholder.com/500x400?text=Şık+Sehpa+2"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa1.webp",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/sehpa11.webp"
       ],
       "basePrice": "89.99",
       "salePrice": "69.99",
@@ -302,8 +301,9 @@
       "id": 9,
       "name": "Lüks Yatak Başlığı",
       "images": [
-        "https://via.placeholder.com/600x400?text=Lüks+Yatak+Başlığı",
-        "https://via.placeholder.com/500x400?text=Lüks+Yatak+Başlığı+2"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak41.jpeg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak4.jpeg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak42.jpeg"
       ],
       "basePrice": "159.99",
       "salePrice": "129.99",
@@ -343,8 +343,8 @@
       "id": 10,
       "name": "Modern Perde",
       "images": [
-        "https://via.placeholder.com/600x400?text=Modern+Perde",
-        "https://via.placeholder.com/500x400?text=Modern+Perde+2"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/perde.jpg"
       ],
       "basePrice": "49.99",
       "salePrice": "39.99",
@@ -383,8 +383,8 @@
       "id": 11,
       "name": "Şık Dolap",
       "images": [
-        "https://via.placeholder.com/600x400?text=Şık+Dolap",
-        "https://via.placeholder.com/500x400?text=Şık+Dolap+2"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap7.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/dolap8.jpg"
       ],
       "basePrice": "499.99",
       "salePrice": "399.99",
