@@ -39,7 +39,304 @@
       "freeInstallation": true,
       "freeDelivery": true,
       "setContents": ["2 Tekli Koltuk", "1 3'lü Koltuk", "4 Kırlent"],
-      "productAddedDate": "13/08/2024"
+      "publishedDate": "13/08/2024"
+    },
+
+    {
+      "id": 2,
+      "name": "Modern Yatak Odası Takımı",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Modern+Yatak+Odası",
+        "https://via.placeholder.com/500x400?text=Modern+Yatak+Odası+2",
+        "https://via.placeholder.com/100x100?text=Modern+Yatak+Odası+3"
+      ],
+      "basePrice": "299.99",
+      "salePrice": "249.99",
+      "stockCode": "MYT12345",
+      "categories": ["yatak"],
+      "subCategories": ["yatak odası"],
+      "tags": ["Modern", "Sale", "New"],
+      "colors": [
+        {"code": "#f5f5f5", "additionalPrice": "0.00"},
+        {"code": "#d3d3d3", "additionalPrice": "15.00"},
+        {"code": "#b0e0e6", "additionalPrice": "25.00"}
+      ],
+      "dimensions": [
+        {"size": "160x200 cm", "additionalPrice": "0.00"},
+        {"size": "180x200 cm", "additionalPrice": "30.00"}
+      ],
+      "fabricType": [
+        {"type": "Velvet", "additionalPrice": "20.00"},
+        {"type": "Leather", "additionalPrice": "50.00"}
+      ],
+      "installmentOptions": ["3 months", "6 months", "12 months"],
+      "shortDescription": "Elegant and modern bedroom set with high-quality materials.",
+      "fullDescription": "Our Modern Bedroom Set combines elegance with comfort. It includes a bed, two nightstands, and a dresser. Perfect for a stylish and functional bedroom.",
+      "reviews": [
+        {"rating": 5, "comment": "Looks stunning in my bedroom!"},
+        {"rating": 4, "comment": "Good quality, but the assembly was tricky."}
+      ],
+      "warrantyPeriod": 3,
+      "freeInstallation": false,
+      "freeDelivery": true,
+      "setContents": ["1 Yatak", "2 Komodin", "1 Şifonyer"],
+      "publishedDate": "20/08/2024"
+    },
+    {
+      "id": 3,
+      "name": "Rustik TV Ünitesi",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Rustik+TV+Ünitesi",
+        "https://via.placeholder.com/500x400?text=Rustik+TV+Ünitesi+2",
+        "https://via.placeholder.com/100x100?text=Rustik+TV+Ünitesi+3"
+      ],
+      "basePrice": "399.99",
+      "salePrice": "349.99",
+      "stockCode": "RTV12345",
+      "categories": ["tv-unit"],
+      "subCategories": ["modern tv unit"],
+      "tags": ["Rustic", "Sale", "Featured"],
+      "colors": [
+        {"code": "#deb887", "additionalPrice": "0.00"},
+        {"code": "#8b4513", "additionalPrice": "20.00"}
+      ],
+      "dimensions": [
+        {"size": "180x45x60 cm", "additionalPrice": "0.00"},
+        {"size": "200x45x60 cm", "additionalPrice": "40.00"}
+      ],
+      "fabricType": [
+        {"type": "Wood", "additionalPrice": "0.00"},
+        {"type": "Metal", "additionalPrice": "15.00"}
+      ],
+      "installmentOptions": ["3 months", "6 months"],
+      "shortDescription": "A stylish rustic TV unit that fits perfectly in any living room.",
+      "fullDescription": "This Rustic TV Unit is designed to bring a touch of elegance and practicality to your living space. Made from high-quality wood with ample storage options.",
+      "reviews": [
+        {"rating": 5, "comment": "Fantastic quality and looks amazing!"},
+        {"rating": 4, "comment": "Assembly was a bit difficult, but worth it."}
+      ],
+      "warrantyPeriod": 2,
+      "freeInstallation": true,
+      "freeDelivery": false,
+      "setContents": ["1 TV Ünitesi"],
+      "publishedDate": "25/08/2024"
+    },
+    {
+      "id": 4,
+      "name": "Sandalye Koleksiyonu",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Sandalye+Koleksiyonu",
+        "https://via.placeholder.com/500x400?text=Sandalye+Koleksiyonu+2",
+        "https://via.placeholder.com/100x100?text=Sandalye+Koleksiyonu+3"
+      ],
+      "basePrice": "129.99",
+      "salePrice": "99.99",
+      "stockCode": "SK12345",
+      "categories": ["masa-sandalye"],
+      "subCategories": ["dining chairs"],
+      "tags": ["Collection", "Sale"],
+      "colors": [
+        {"code": "#ff6347", "additionalPrice": "0.00"},
+        {"code": "#4682b4", "additionalPrice": "10.00"},
+        {"code": "#32cd32", "additionalPrice": "15.00"}
+      ],
+      "dimensions": [{"size": "45x45x90 cm", "additionalPrice": "0.00"}],
+      "fabricType": [
+        {"type": "Fabric", "additionalPrice": "0.00"},
+        {"type": "Leather", "additionalPrice": "20.00"}
+      ],
+      "installmentOptions": ["1 month", "3 months"],
+      "shortDescription": "A set of stylish and comfortable dining chairs.",
+      "fullDescription": "This collection of dining chairs features a sleek design and comfortable seating, perfect for enhancing your dining area. Available in various colors and fabrics.",
+      "reviews": [
+        {"rating": 5, "comment": "Very comfortable and stylish!"},
+        {"rating": 4, "comment": "Good quality, but a bit expensive."}
+      ],
+      "warrantyPeriod": 1,
+      "freeInstallation": true,
+      "freeDelivery": true,
+      "setContents": ["4 Sandalye"],
+      "publishedDate": "30/08/2024"
+    },
+
+    {
+      "id": 5,
+      "name": "Klasik Yemek Masası",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Klasik+Yemek+Masası",
+        "https://via.placeholder.com/500x400?text=Klasik+Yemek+Masası+2"
+      ],
+      "basePrice": "199.99",
+      "salePrice": "169.99",
+      "stockCode": "KYM12345",
+      "categories": ["masa-sandalye"],
+      "tags": ["Classic", "Sale"],
+      "colors": [
+        {"code": "#a0522d", "additionalPrice": "0.00"},
+        {"code": "#d2b48c", "additionalPrice": "15.00"}
+      ],
+      "dimensions": [
+        {"size": "120x80 cm", "additionalPrice": "0.00"},
+        {"size": "160x90 cm", "additionalPrice": "30.00"}
+      ],
+      "fabricType": [{"type": "Wood", "additionalPrice": "0.00"}],
+      "installmentOptions": ["3 months"],
+      "shortDescription": "A classic dining table with elegant design.",
+      "fullDescription": "This classic dining table is perfect for traditional interiors, featuring a robust design and durable wood construction.",
+      "reviews": [
+        {"rating": 4, "comment": "Beautiful table, good quality."},
+        {"rating": 5, "comment": "Perfect for my dining room!"}
+      ],
+      "warrantyPeriod": 2,
+      "freeInstallation": true,
+      "freeDelivery": true,
+      "setContents": ["1 Yemek Masası"],
+      "publishedDate": "01/09/2024"
+    },
+    {
+      "id": 6,
+      "name": "Ergonomik Ofis Sandalyesi",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Ergonomik+Ofis+Sandalyesi",
+        "https://via.placeholder.com/500x400?text=Ergonomik+Ofis+Sandalyesi+2"
+      ],
+      "basePrice": "149.99",
+      "salePrice": "119.99",
+      "stockCode": "EOS12345",
+      "categories": ["masa-sandalye"],
+      "tags": ["Ergonomic", "Sale"],
+      "colors": [
+        {"code": "#000000", "additionalPrice": "0.00"},
+        {"code": "#808080", "additionalPrice": "10.00"}
+      ],
+      "dimensions": [{"size": "60x60x120 cm", "additionalPrice": "0.00"}],
+      "fabricType": [
+        {"type": "Mesh", "additionalPrice": "0.00"},
+        {"type": "Leather", "additionalPrice": "20.00"}
+      ],
+      "installmentOptions": ["1 month", "3 months"],
+      "shortDescription": "Comfortable ergonomic office chair.",
+      "fullDescription": "This ergonomic office chair offers excellent support and comfort for long working hours, available in multiple colors and fabric options.",
+      "reviews": [
+        {"rating": 5, "comment": "Extremely comfortable and adjustable."},
+        {"rating": 4, "comment": "Good value for the price."}
+      ],
+      "warrantyPeriod": 1,
+      "freeInstallation": false,
+      "freeDelivery": true,
+      "setContents": ["1 Ofis Sandalyesi"],
+      "publishedDate": "05/09/2024"
+    },
+    {
+      "id": 7,
+      "name": "Modern TV Ünitesi",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Modern+TV+Ünitesi",
+        "https://via.placeholder.com/500x400?text=Modern+TV+Ünitesi+2"
+      ],
+      "basePrice": "299.99",
+      "salePrice": "249.99",
+      "stockCode": "MTU12345",
+      "categories": ["tv-unit"],
+      "tags": ["Modern", "Sale"],
+      "colors": [
+        {"code": "#ffffff", "additionalPrice": "0.00"},
+        {"code": "#000000", "additionalPrice": "20.00"}
+      ],
+      "dimensions": [
+        {"size": "150x40 cm", "additionalPrice": "0.00"},
+        {"size": "200x50 cm", "additionalPrice": "40.00"}
+      ],
+      "fabricType": [{"type": "Wood", "additionalPrice": "0.00"}],
+      "installmentOptions": ["3 months", "6 months"],
+      "shortDescription": "Stylish TV unit with ample storage.",
+      "fullDescription": "This modern TV unit features a sleek design with plenty of storage space, perfect for contemporary living rooms.",
+      "reviews": [
+        {"rating": 5, "comment": "Looks great and very functional."},
+        {"rating": 4, "comment": "Solid build but delivery was delayed."}
+      ],
+      "warrantyPeriod": 2,
+      "freeInstallation": true,
+      "freeDelivery": true,
+      "setContents": ["1 TV Ünitesi"],
+      "publishedDate": "10/09/2024"
+    },
+    {
+      "id": 8,
+      "name": "Şık Sehpa",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Şık+Sehpa",
+        "https://via.placeholder.com/500x400?text=Şık+Sehpa+2"
+      ],
+      "basePrice": "89.99",
+      "salePrice": "69.99",
+      "stockCode": "SS12345",
+      "categories": ["sehpa"],
+      "tags": ["Elegant", "Discount"],
+      "colors": [
+        {"code": "#d3d3d3", "additionalPrice": "0.00"},
+        {"code": "#ff6347", "additionalPrice": "5.00"}
+      ],
+      "dimensions": [
+        {"size": "50x50 cm", "additionalPrice": "0.00"},
+        {"size": "70x70 cm", "additionalPrice": "15.00"}
+      ],
+      "fabricType": [
+        {"type": "Glass", "additionalPrice": "0.00"},
+        {"type": "Wood", "additionalPrice": "10.00"}
+      ],
+      "installmentOptions": ["1 month"],
+      "shortDescription": "Elegant coffee table for any room.",
+      "fullDescription": "This stylish coffee table complements any room with its elegant design, available in various sizes and colors.",
+      "reviews": [
+        {"rating": 4, "comment": "Nice table but a bit smaller than expected."},
+        {"rating": 5, "comment": "Perfect for my living room, love the design!"}
+      ],
+      "warrantyPeriod": 1,
+      "freeInstallation": false,
+      "freeDelivery": true,
+      "setContents": ["1 Sehpa"],
+      "publishedDate": "15/09/2024"
+    },
+    {
+      "id": 9,
+      "name": "Lüks Yatak Başlığı",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Lüks+Yatak+Başlığı",
+        "https://via.placeholder.com/500x400?text=Lüks+Yatak+Başlığı+2"
+      ],
+      "basePrice": "159.99",
+      "salePrice": "129.99",
+      "stockCode": "LYB12345",
+      "categories": ["yatak"],
+      "tags": ["Luxury", "Discount"],
+      "colors": [
+        {"code": "#f5f5f5", "additionalPrice": "0.00"},
+        {"code": "#c0c0c0", "additionalPrice": "15.00"}
+      ],
+      "dimensions": [
+        {"size": "180x60 cm", "additionalPrice": "0.00"},
+        {"size": "200x70 cm", "additionalPrice": "30.00"}
+      ],
+      "fabricType": [
+        {"type": "Velvet", "additionalPrice": "0.00"},
+        {"type": "Leather", "additionalPrice": "20.00"}
+      ],
+      "installmentOptions": ["3 months"],
+      "shortDescription": "Luxurious headboard for a stylish bedroom.",
+      "fullDescription": "Add a touch of luxury to your bedroom with this elegant headboard, available in multiple colors and fabrics.",
+      "reviews": [
+        {"rating": 5, "comment": "Looks amazing, really enhances the room."},
+        {
+          "rating": 4,
+          "comment": "Good quality, but delivery took longer than expected."
+        }
+      ],
+      "warrantyPeriod": 1,
+      "freeInstallation": true,
+      "freeDelivery": true,
+      "setContents": ["1 Yatak Başlığı"],
+      "publishedDate": "20/09/2024"
     }
   ],
   "categories": [
