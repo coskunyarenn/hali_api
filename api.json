@@ -337,6 +337,90 @@
       "freeDelivery": true,
       "setContents": ["1 Yatak Başlığı"],
       "publishedDate": "20/09/2024"
+    },
+
+    {
+      "id": 10,
+      "name": "Modern Perde",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Modern+Perde",
+        "https://via.placeholder.com/500x400?text=Modern+Perde+2"
+      ],
+      "basePrice": "49.99",
+      "salePrice": "39.99",
+      "stockCode": "MP12345",
+      "categories": ["perde"],
+      "tags": ["Modern", "Discount"],
+      "colors": [
+        {"code": "#f5f5f5", "additionalPrice": "0.00"},
+        {"code": "#e0e0e0", "additionalPrice": "5.00"}
+      ],
+      "dimensions": [
+        {"size": "140x250 cm", "additionalPrice": "0.00"},
+        {"size": "200x250 cm", "additionalPrice": "10.00"}
+      ],
+      "fabricType": [
+        {"type": "Cotton", "additionalPrice": "0.00"},
+        {"type": "Linen", "additionalPrice": "10.00"}
+      ],
+      "installmentOptions": ["1 month"],
+      "shortDescription": "Elegant curtains that add a modern touch to any room.",
+      "fullDescription": "These modern curtains come in various sizes and colors, perfect for enhancing the style and ambiance of your living space.",
+      "reviews": [
+        {"rating": 5, "comment": "Beautiful curtains, just as described."},
+        {
+          "rating": 4,
+          "comment": "Good quality, but color was slightly different than expected."
+        }
+      ],
+      "warrantyPeriod": 1,
+      "freeInstallation": false,
+      "freeDelivery": true,
+      "setContents": ["1 Perde"],
+      "publishedDate": "25/09/2024"
+    },
+    {
+      "id": 11,
+      "name": "Şık Dolap",
+      "images": [
+        "https://via.placeholder.com/600x400?text=Şık+Dolap",
+        "https://via.placeholder.com/500x400?text=Şık+Dolap+2"
+      ],
+      "basePrice": "499.99",
+      "salePrice": "399.99",
+      "stockCode": "SD12345",
+      "categories": ["dolap"],
+      "tags": ["Elegant", "Sale"],
+      "colors": [
+        {"code": "#ffffff", "additionalPrice": "0.00"},
+        {"code": "#d3d3d3", "additionalPrice": "20.00"}
+      ],
+      "dimensions": [
+        {"size": "200x60x210 cm", "additionalPrice": "0.00"},
+        {"size": "250x60x210 cm", "additionalPrice": "50.00"}
+      ],
+      "fabricType": [
+        {"type": "Wood", "additionalPrice": "0.00"},
+        {"type": "MDF", "additionalPrice": "30.00"}
+      ],
+      "installmentOptions": ["3 months", "6 months"],
+      "shortDescription": "Stylish wardrobe with ample storage space.",
+      "fullDescription": "This elegant wardrobe offers plenty of space for organizing clothes and accessories, available in multiple colors and sizes.",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent quality and looks great in my bedroom."
+        },
+        {
+          "rating": 4,
+          "comment": "Good storage space, but assembly was a bit tricky."
+        }
+      ],
+      "warrantyPeriod": 2,
+      "freeInstallation": true,
+      "freeDelivery": true,
+      "setContents": ["1 Dolap"],
+      "publishedDate": "30/09/2024"
     }
   ],
   "categories": [
