@@ -4,9 +4,9 @@
       "id": 1,
       "name": "İndiana Koltuk Takımı",
       "images": [
-        "https://via.placeholder.com/600x400",
-        "https://via.placeholder.com/500x400",
-        "https://via.placeholder.com/100x100"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk1.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk2.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/koltuk3.jpg"
       ],
       "basePrice": "199.99",
       "salePrice": "149.99",
@@ -46,9 +46,9 @@
       "id": 2,
       "name": "Modern Yatak Odası Takımı",
       "images": [
-        "https://via.placeholder.com/600x400?text=Modern+Yatak+Odası",
-        "https://via.placeholder.com/500x400?text=Modern+Yatak+Odası+2",
-        "https://via.placeholder.com/100x100?text=Modern+Yatak+Odası+3"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak1.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak2.jpg"
       ],
       "basePrice": "299.99",
       "salePrice": "249.99",
@@ -86,7 +86,7 @@
       "id": 3,
       "name": "Rustik TV Ünitesi",
       "images": [
-        "https://via.placeholder.com/600x400?text=Rustik+TV+Ünitesi",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/tv-unit.webp",
         "https://via.placeholder.com/500x400?text=Rustik+TV+Ünitesi+2",
         "https://via.placeholder.com/100x100?text=Rustik+TV+Ünitesi+3"
       ],
@@ -125,9 +125,9 @@
       "id": 4,
       "name": "Sandalye Koleksiyonu",
       "images": [
-        "https://via.placeholder.com/600x400?text=Sandalye+Koleksiyonu",
-        "https://via.placeholder.com/500x400?text=Sandalye+Koleksiyonu+2",
-        "https://via.placeholder.com/100x100?text=Sandalye+Koleksiyonu+3"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye1.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye2.jpg"
       ],
       "basePrice": "129.99",
       "salePrice": null,
@@ -163,8 +163,8 @@
       "id": 5,
       "name": "Klasik Yemek Masası",
       "images": [
-        "https://via.placeholder.com/600x400?text=Klasik+Yemek+Masası",
-        "https://via.placeholder.com/500x400?text=Klasik+Yemek+Masası+2"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye4.jpg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/masa-sandalye5.jpg"
       ],
       "basePrice": "199.99",
       "salePrice": "169.99",
