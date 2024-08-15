@@ -485,5 +485,63 @@
         "Bebek Yatağı"
       ]
     }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "title": "First Blog Post",
+      "excerpt": "This is a brief excerpt of the first blog drghdtryjdtrhsr  dfvdf d d dmf nd mfdmn dmn  mfsng md mdm mm m gmhaerhaerpost.",
+      "image": "https://via.placeholder.com/350x200",
+      "date": "August 1, 2024"
+    },
+    {
+      "id": "2",
+      "title": "Second Blog Post",
+      "excerpt": "This is a brief excerpt of the second blog posaergaerhaerhaethsrtjsrthaergergjnköerjghıaekrgnkjaerngljkaerngkjnearıugnaerkjgn.",
+      "image": "https://via.placeholder.com/350x200",
+      "date": "August 5, 2024"
+    },
+    {
+      "id": "3",
+      "title": "Second Blog Post",
+      "excerpt": "This is a brief excerpt of the second blog pWRMGLAE  dmfn dkf nad   nf fgn fmng f xf fm fmg RGLAMERGost.",
+      "image": "https://via.placeholder.com/350x200",
+      "date": "August 5, 2024"
+    },
+    {
+      "id": "4",
+      "title": "Second Blog Post",
+      "excerpt": "This is a brief excerpt of the second ergrhthrtjrthgaerhtrtçkleakljvenarkjvaegrnlkjgblog post.",
+      "image": "https://via.placeholder.com/350x200",
+      "date": "August 5, 2024"
+    },
+    {
+      "id": "5",
+      "title": "2 Blog Post",
+      "excerpt": "This is a brief excerpt of the second blEMRGKLHRSTMBÖMDAF AMRFLERKFAEMRKGMFLKDGBNKLFGMBLlksflgkmbsrlgmblskrtgmblkrmbnlkjsrtmlksrgmlksrmg bksrmlkbsmrgkmsrlşgbmkfgb lmf nsrbosf mn fgb zmf bnkrgmb mxfg bortkog post.",
+      "image": "https://via.placeholder.com/350x200",
+      "date": "August 5, 2024"
+    },
+    {
+      "id": "6",
+      "title": "Second Blog Post",
+      "excerpt": "This is a brief excerpt of the second blog posdfmsrltkgnkalfnbjşslg mkfgnbkearmblksfg çkfmgnblfd lkgb lmzfgnokt.",
+      "image": "https://via.placeholder.com/350x200",
+      "date": "August 5, 2024"
+    },
+    {
+      "id": "7",
+      "title": "5 Blog Post",
+      "excerpt": "This is a brief excerpt of the second blsdfghsryujtyjrstgkjleırjgjkrtnjksrnjkrnjgkhnearjgnaejşrgnoaıerjtoıaermgşojaergnejoarngoıaerjgaerjgkaergş oıarkgpoa erkgşlkaergo aekrgokaerj ıogajeroı hjarkhrntşıohjae roıhnrkjthnsoıtjhroıtj haşrtnhsçkrjthjoısrt jhrsktnhkr tsj hrlktnhkrjth nsrtnhksrtnhj krs hıosrnçbkjsr  gbkçmfr gk sg öksrgn mnfgb kfmgb fkgbm fkb bzfkgb fgnb rgt bznf og post.",
+      "image": "https://via.placeholder.com/350x200",
+      "date": "August 5, 2024"
+    },
+    {
+      "id": "8",
+      "title": "Second Blog Post",
+      "excerpt": "This is a brief excerpt of the second blog pos mdf mnd fkd nnfgnçk nf f m mf mnfg mfz f mf f fgnt.",
+      "image": "https://via.placeholder.com/350x200",
+      "date": "August 5, 2024"
+    }
   ]
 }
