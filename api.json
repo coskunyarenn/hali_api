@@ -12,7 +12,7 @@
       "salePrice": "149.99",
       "stockCode": "SP12345",
       "categories": ["koltuk"],
-      "subCategories": ["koltuk", "köşe koltuk"],
+      "subCategories": ["koltuk takımları", "köşe koltuk"],
       "tags": ["New", "Sale", "Featured"],
       "colors": [
         {"code": "#ffffff", "additionalPrice": "0.00"},
@@ -54,7 +54,7 @@
       "salePrice": "249.99",
       "stockCode": "MYT12345",
       "categories": ["yatak"],
-      "subCategories": ["yatak odası", "yatak"],
+      "subCategories": ["baza", "yataklar"],
       "tags": ["Modern", "Sale", "New"],
       "colors": [
         {"code": "#f5f5f5", "additionalPrice": "0.00"},
@@ -94,7 +94,7 @@
       "salePrice": "349.99",
       "stockCode": "RTV12345",
       "categories": ["tv-unit"],
-      "subCategories": ["modern tv unit", "tv-unit"],
+      "subCategories": ["modern tv unit"],
       "tags": ["Rustic", "Sale", "Featured"],
       "colors": [
         {"code": "#deb887", "additionalPrice": "0.00"},
@@ -133,7 +133,7 @@
       "salePrice": null,
       "stockCode": "SK12345",
       "categories": ["masa-sandalye"],
-      "subCategories": ["masa-sandalye", "dining chairs"],
+      "subCategories": ["sandalye", "yemek masası"],
       "tags": ["Collection", "Sale"],
       "colors": [
         {"code": "#ff6347", "additionalPrice": "0.00"},
@@ -170,7 +170,7 @@
       "salePrice": "169.99",
       "stockCode": "KYM12345",
       "categories": ["masa-sandalye"],
-      "subCategories": ["masa-sandalye"],
+      "subCategories": ["yemek masası"],
       "tags": ["Classic", "Sale"],
       "colors": [
         {"code": "#a0522d", "additionalPrice": "0.00"},
@@ -205,7 +205,7 @@
       "salePrice": "119.99",
       "stockCode": "EOS12345",
       "categories": ["masa-sandalye"],
-      "subCategories": ["masa-sandalye"],
+      "subCategories": ["çalışma masası"],
       "tags": ["Ergonomic", "Sale"],
       "colors": [
         {"code": "#000000", "additionalPrice": "0.00"},
@@ -239,7 +239,7 @@
       "salePrice": "249.99",
       "stockCode": "MTU12345",
       "categories": ["tv-unit"],
-      "subCategories": ["tv-unit"],
+      "subCategories": ["modern tv unit"],
       "tags": ["Modern", "Sale"],
       "colors": [
         {"code": "#ffffff", "additionalPrice": "0.00"},
@@ -274,7 +274,7 @@
       "salePrice": "69.99",
       "stockCode": "SS12345",
       "categories": ["sehpa"],
-      "subCategories": ["sehpa"],
+      "subCategories": ["sehpa takımı"],
       "tags": ["Elegant", "Discount"],
       "colors": [
         {"code": "#d3d3d3", "additionalPrice": "0.00"},
@@ -313,7 +313,7 @@
       "salePrice": "129.99",
       "stockCode": "LYB12345",
       "categories": ["yatak"],
-      "subCategories": ["yatak"],
+      "subCategories": ["karyola", "baza başlığı"],
       "tags": ["Luxury", "Discount"],
       "colors": [
         {"code": "#f5f5f5", "additionalPrice": "0.00"},
@@ -355,7 +355,7 @@
       "salePrice": "39.99",
       "stockCode": "MP12345",
       "categories": ["perde"],
-      "subCategories": ["perde"],
+      "subCategories": ["zebra"],
       "tags": ["Modern", "Discount"],
       "colors": [
         {"code": "#f5f5f5", "additionalPrice": "0.00"},
@@ -396,7 +396,7 @@
       "salePrice": "399.99",
       "stockCode": "SD12345",
       "categories": ["dolap"],
-      "subCategories": ["dolap"],
+      "subCategories": ["sürgülü"],
       "tags": ["Elegant", "Sale"],
       "colors": [
         {"code": "#ffffff", "additionalPrice": "0.00"},
@@ -434,37 +434,57 @@
     {
       "id": "perde",
       "name": "Perde",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/perde.jpg"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/perde.jpg",
+      "subCategories": ["zebra", "fon", "güneşlik", "tül"]
     },
     {
       "id": "koltuk",
       "name": "Koltuk",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/kanepe-koltuk.webp"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/kanepe-koltuk.webp",
+      "subCategories": ["köşe koltuk", "kanepe", "koltuk takımları", "berjer"]
     },
     {
       "id": "dolap",
       "name": "Dolap",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/dolap.jpg"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/dolap.jpg",
+      "subCategories": ["elbise dolabı", "vitrin", "sürgülü", "kapaklı"]
     },
     {
       "id": "tv-unit",
       "name": "TV Ünitesi",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/tv-unit.webp"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/tv-unit.webp",
+      "subCategories": ["modern tv unit"]
     },
     {
       "id": "masa-sandalye",
       "name": "Masa / Sandalye",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/sandalye.webp"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/sandalye.webp",
+      "subCategories": [
+        "yemek masası",
+        "mutfak masası",
+        "masa",
+        "sandalye",
+        "çalışma masası"
+      ]
     },
     {
       "id": "sehpa",
       "name": "Sehpa",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/sehpa.webp"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/sehpa.webp",
+      "subCategories": ["orta sehpa", "sehpa takımı", "yan sehpa"]
     },
     {
       "id": "yatak",
       "name": "Yatak",
-      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/yatak.webp"
+      "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/yatak.webp",
+      "subCategories": [
+        "karyola",
+        "baza",
+        "yataklar",
+
+        "baza başlığı",
+        "bebek yatağı"
+      ]
     }
   ]
 }
