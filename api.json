@@ -435,55 +435,54 @@
       "id": "perde",
       "name": "Perde",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/perde.jpg",
-      "subCategories": ["zebra", "fon", "güneşlik", "tül"]
+      "subCategories": ["Zebra", "Fon", "Güneşlik", "Tül"]
     },
     {
       "id": "koltuk",
       "name": "Koltuk",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/kanepe-koltuk.webp",
-      "subCategories": ["köşe koltuk", "kanepe", "koltuk takımları", "berjer"]
+      "subCategories": ["Köşe Koltuk", "Kanepe", "Koltuk Takımları", "Berjer"]
     },
     {
       "id": "dolap",
       "name": "Dolap",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/dolap.jpg",
-      "subCategories": ["elbise dolabı", "vitrin", "sürgülü", "kapaklı"]
+      "subCategories": ["Elbise Dolabı", "Vitrin", "Sürgülü", "Kapaklı"]
     },
     {
       "id": "tv-unit",
       "name": "TV Ünitesi",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/tv-unit.webp",
-      "subCategories": ["modern tv unit"]
+      "subCategories": ["Modern tv unit"]
     },
     {
       "id": "masa-sandalye",
       "name": "Masa / Sandalye",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/sandalye.webp",
       "subCategories": [
-        "yemek masası",
-        "mutfak masası",
-        "masa",
-        "sandalye",
-        "çalışma masası"
+        "Yemek Masası",
+        "Mutfak Masası",
+        "Masa",
+        "Sandalye",
+        "Çalışma Masası"
       ]
     },
     {
       "id": "sehpa",
       "name": "Sehpa",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/sehpa.webp",
-      "subCategories": ["orta sehpa", "sehpa takımı", "yan sehpa"]
+      "subCategories": ["Orta Sehpa", "Sehpa Takımı", "Yan Sehpa"]
     },
     {
       "id": "yatak",
       "name": "Yatak",
       "image": "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/categories/yatak.webp",
       "subCategories": [
-        "karyola",
-        "baza",
-        "yataklar",
-
-        "baza başlığı",
-        "bebek yatağı"
+        "Karyola",
+        "Baza",
+        "Yataklar",
+        "Baza Başlığı",
+        "Bebek Yatağı"
       ]
     }
   ]
