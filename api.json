@@ -46,9 +46,10 @@
       "id": 2,
       "name": "Modern Yatak Odası Takımı",
       "images": [
-        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak1.jpg",
-        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak2.jpg"
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak.jpeg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak1.jpeg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak2.jpeg",
+        "https://raw.githubusercontent.com/coskunyarenn/hali_api/main/assets/products/yatak3.jpeg"
       ],
       "basePrice": "299.99",
       "salePrice": "249.99",
